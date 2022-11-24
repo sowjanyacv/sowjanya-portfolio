@@ -17,10 +17,9 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Skills", "url": "/#details" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" },
-        { "label": "Blog", "url": "/blog" }
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Contact", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
