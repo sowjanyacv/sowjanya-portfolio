@@ -1,19 +1,15 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "siteUrl": "https://sowjanyaportfolio.gatsbyjs.io/",
+    "title": "Sowjanya's Portfolio",
+    "titleTemplate": "%s",
+    "description": "A Personal Portfolio",
+    "author": "Sowjanya Chandra Vijaya",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/sowjanyacv",
+      "linkedin": "https://www.linkedin.com/in/sowjanya-c-v",
+      "mail": "mailto:priya99vish@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -21,19 +17,17 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "Skills", "url": "/#details" },
         { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Github", "url": "/#github" },
+        { "label": "Blog", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
         "url": "/resume.pdf"
       },
-      "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
-      ]
+      "footer": ["Copyright © 2022, Sowjanya Chandra Vijaya"]
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
