@@ -2,47 +2,44 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "",
+      "title": "Meme Generator",
+      "description": "A classic meme generator that takes two sentances and produces an image on click of a button. I took meme genrator project from Bob Ziroll's learn React course on Scrimba and built it from scratch by swapping JavaScript code with TypeScript, adding a CSS framework and making a few design changes.",
+      "tags": ["TypeScript", "Reactjs", "ChakraUI"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/meme.jpg",
+        "alt": "Meme Generator",
+        "linkTo": "https://github.com/sowjanyacv/meme-generator"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/sowjanyacv/meme-generator"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "",
+      "title": "FoodPrint",
+      "description": "FoodPrint is a web app that scans groceries receipts and detects high carbon footprint. The app also sends reminders to avoid food waste, tracks users' previous receipts scans, and uses gamification (with points and special badges) to increase user engagement. It was created by a team of 3 developers and 2 designers for Athena Hackathon (virtual, October 2022) on the theme: How can households reduce their carbon footprint? I was a developer and produced majority of the frontend code.",
+      "tags": ["JavaScript", "Reactjs", "ChakraUI", "PostgreSQL"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/home.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/sowjanyacv/Food-Print"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/sowjanyacv/Food-Print"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "View more on Github",
+    "url": "https://github.com/sowjanyacv?tab=repositories"
   }
 }

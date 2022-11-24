@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/about.png"
+imageAlt: "Profile Picture"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Who is Sowjanya? Does she even exist outside of this website? Certainly. I assure you that I'm a fully functioning Homosapien (sort of). I'm a front-end developer whose love for coding started after failing my first computer science test in grade 11.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Fast forwarding a bit, I graduated with Bachelor's Degree in Information Science and Engineering from New Horizon College of Engineering. I was placed in a Japanese company called Notespace Inc, where I currently work.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+My main focus these days is honing the skills I already possess, creating efficient and clean websites, and enhancing user experience and functionality.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+To know more about my educational qualification and work experience, you can <a href='https://www.linkedin.com/in/sowjanya-c-v' target='_blank'><u>click here<u></a>.

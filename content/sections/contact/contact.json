@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "WordPress",
+  "email": "https://welcometochaoscentral.wordpress.com",
+  "description": "You can read the blogs I occasionally post on WordPress down below. Feel free to check out my socials. Whether you have a question or just want to say hi, drop me a mail.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/blog_logo.png",
+    "alt": "Blog Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }

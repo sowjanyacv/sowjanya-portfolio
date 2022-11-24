@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://sowjanyaportfolio.gatsbyjs.io/",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Sowjanya's Portfolio",
     "titleTemplate": "%s",
     "description": "A Personal Portfolio",
@@ -13,11 +13,11 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Sowjanya's Portfolio" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "Skills", "url": "/#details" },
         { "label": "Projects", "url": "/#features" },
         { "label": "Contact", "url": "/#github" }
       ],
