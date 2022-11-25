@@ -26,7 +26,7 @@
         "label": "Resume",
         "url": "/resume.pdf"
       },
-      "footer": ["Copyright © 2022, Sowjanya Chandra Vijaya"]
+      "footer": [{ "label": "Copyright © 2022, Sowjanya Chandra Vijaya" }]
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
