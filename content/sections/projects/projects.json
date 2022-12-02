@@ -3,7 +3,7 @@
     {
       "visible": true,
       "category": "",
-      "title": "Landing Page for Weasley's Wizard Wheezes",
+      "title": "Landing Page - Weasley's Wizard Wheezes",
       "description": "A landing page for a fictional shop Weasley's Wizard Wheezes from Harry Potter. Built with Reactjs and Tailwind. It is responsive.",
       "tags": ["JavaScript", "Reactjs", "TailwindCSS"],
       "image": {
