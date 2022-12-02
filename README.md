@@ -1,5 +1,6 @@
 Dark Theme
 <img src="portfolio1.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
+
 Light Theme
 <img src="portfolio2.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
