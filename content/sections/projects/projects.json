@@ -3,6 +3,46 @@
     {
       "visible": true,
       "category": "",
+      "title": "Landing Page for Weasley's Wizard Wheezes",
+      "description": "A landing page for a fictional shop Weasley's Wizard Wheezes from Harry Potter. Built with Reactjs and Tailwind. It is responsive.",
+      "tags": ["JavaScript", "Reactjs", "TailwindCSS"],
+      "image": {
+        "src": "../../images/Desktop1.png",
+        "alt": "Landing Page",
+        "linkTo": "https://github.com/sowjanyacv/Weasley-s-Wizard-Wheezes"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/sowjanyacv/Weasley-s-Wizard-Wheezes"
+        },
+        {
+          "type": "external",
+          "url": "https://weasley-wizard-wheezes.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "FoodPrint",
+      "description": "FoodPrint is a web app that scans groceries receipts and detects high carbon footprint. The app also sends reminders to avoid food waste, tracks users' previous receipts scans, and uses gamification (with points and special badges) to increase user engagement. It was created by a team of 3 developers and 2 designers for Athena Hackathon (virtual, October 2022) on the theme: How can households reduce their carbon footprint? I was a developer and produced majority of the frontend code.",
+      "tags": ["JavaScript", "Reactjs", "ChakraUI", "PostgreSQL"],
+      "image": {
+        "src": "../../images/home.png",
+        "alt": "Food Print",
+        "linkTo": "https://github.com/sowjanyacv/Food-Print"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/sowjanyacv/Food-Print"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "Meme Generator",
       "description": "A classic meme generator that takes two sentances and produces an image on click of a button. I took meme genrator project from Bob Ziroll's learn React course on Scrimba and built it from scratch by swapping JavaScript code with TypeScript, adding a CSS framework and making a few design changes.",
       "tags": ["TypeScript", "Reactjs", "ChakraUI"],
@@ -15,24 +55,6 @@
         {
           "type": "github",
           "url": "https://github.com/sowjanyacv/meme-generator"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "",
-      "title": "FoodPrint",
-      "description": "FoodPrint is a web app that scans groceries receipts and detects high carbon footprint. The app also sends reminders to avoid food waste, tracks users' previous receipts scans, and uses gamification (with points and special badges) to increase user engagement. It was created by a team of 3 developers and 2 designers for Athena Hackathon (virtual, October 2022) on the theme: How can households reduce their carbon footprint? I was a developer and produced majority of the frontend code.",
-      "tags": ["JavaScript", "Reactjs", "ChakraUI", "PostgreSQL"],
-      "image": {
-        "src": "../../images/home.png",
-        "alt": "Extendable Layout",
-        "linkTo": "https://github.com/sowjanyacv/Food-Print"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/sowjanyacv/Food-Print"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://sowjanyaportfolio.gatsbyjs.io/",
     "title": "Sowjanya's Portfolio",
     "titleTemplate": "%s",
     "description": "A Personal Portfolio",
@@ -26,7 +26,7 @@
         "label": "Resume",
         "url": "/resume.pdf"
       },
-      "footer": [{ "label": "Copyright © 2022, Sowjanya Chandra Vijaya" }]
+      "footer": [{ "label": "© 2022, Sowjanya Chandra Vijaya" }]
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,

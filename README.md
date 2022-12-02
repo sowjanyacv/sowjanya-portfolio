@@ -1,8 +1,11 @@
-<img src="portfolio.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
+Dark Theme
+<img src="portfolio1.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
+Light Theme
+<img src="portfolio2.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
 # Sowjanya's Portfolio
 
-This portfolio website is created with Gatsby.
+This portfolio website is created with Gatsby. The theme is based on your device's default theme. It's not toggleable.
 
 ---
 
@@ -28,4 +31,3 @@ This portfolio website is created with Gatsby.
    ```
 
 4. By default, the Portfolio Minimal Starter has a `content` directory at the root of your Gatsby site. There, you can edit the theme settings as well as add content for your sections. To learn more about it, have a look at the [Readme of Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme).
-# My-portfolio
