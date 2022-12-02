@@ -1,11 +1,9 @@
-Dark Theme
-<img src="portfolio1.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
-Light Theme
+<img src="portfolio.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 <img src="portfolio2.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
 # Sowjanya's Portfolio
 
-This portfolio website is created with Gatsby. The theme is based on your device's default theme. It's not toggleable.
+This portfolio website is created with Gatsby. The light or dark theme is not trigerable. It's based on your browser's current theme.
 
 ---
 
